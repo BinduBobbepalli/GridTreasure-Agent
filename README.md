@@ -1,3 +1,18 @@
+# AI Agent Project
+
+This repository contains a simple grid-world AI agent demonstration built using Python.
+
+## Features
+- Grid-based environment  
+- Agent movement  
+- Goal + hazard logic  
+- Simple CLI simulation  
+
+## How to Run
+
+
+
+
 import random
 
 GRID_SIZE = 6
